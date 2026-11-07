@@ -1,7 +1,8 @@
 {
-  "site_status": "approved",
+  "site_status": "published",
   "human_approved": true,
   "approved_by": "mameend (explicit instruction in project conversation)",
   "approval_date": "2026-11-08",
-  "approval_note": "User explicitly instructed publication: 公開する. Approval covers the existing Japanese HTML essay, with draft labels removed and publication date added. English edition remains in preparation. This records publication authorization, not completion of every editorial review field."
+  "approval_note": "User explicitly instructed publication: 公開する, then requested a design inspired by menomeonline.com with publishable photographs and functional JP/EN switching. Existing Japanese essay paragraphs are unchanged; a full English adaptation and two CC0 Met photographs with verified captions are added. This records user instructions, not separate human sign-off on every research field or translation.",
+  "live_url": "https://mameend.github.io/japanese-culture-journal/between-tea-and-ceramics.html"
 }

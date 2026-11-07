@@ -1,5 +1,19 @@
 # GitHub Pages publishing setup
 
+## Current deployment — 2026-11-08
+
+The user explicitly approved the Japanese HTML article for publication. PR #1 was merged as `3932b70cf193eaaef1bb84f3ae67943735eb9af8`.
+
+- Repository: https://github.com/mameend/japanese-culture-journal
+- Site: https://mameend.github.io/japanese-culture-journal/
+- Pages source: **Deploy from a branch → main → / (root)**.
+- The remote repository currently has the article HTML and editorial records at its root. The local workspace retains `outputs/` and `articles/tea-and-ceramics/`.
+- Both Japanese and English HTML editions are available with reciprocal JP/EN links. Rebuild English after Japanese edits with `python3 scripts/build_english.py` locally, or `python3 build_english.py` in the flat GitHub checkout. Update `translations.en.json` when source copy changes.
+- Changes to `main` automatically trigger publication. Keep unapproved work on a separate branch and merge only after explicit human approval.
+- The manual Actions workflow described below is a planned local prototype, not installed or enforced on GitHub. `release.json` records authorization but is not currently checked by the branch deployment. There is no enforced review rule configured by this setup.
+
+## Planned manual release workflow (not active)
+
 This project is prepared for a deliberate, human-approved release. It does not connect to GitHub or publish by itself.
 
 ## Release model
