@@ -5,3 +5,5 @@
 .region-photo{margin:24px 0 28px}.region-photo img{display:block;width:100%;height:auto;aspect-ratio:3/2;object-fit:contain;background:#f5f4f0}.region-photo figcaption{margin-top:12px;font:12px/1.8 var(--sans);color:var(--muted);overflow-wrap:anywhere}.region-photo figcaption span,.region-photo figcaption small{display:block}.region-photo figcaption small{font-size:10px;margin-top:6px}.region-photo figcaption a{text-decoration:underline;text-underline-offset:3px}
 
 .regional-card img{object-fit:contain!important;background:#f4f1eb}.region-read{margin:0 0 50px 45px;font-size:15px}.region-read a{border-bottom:1px solid #a25c4d}@media(max-width:600px){.region-read{margin-left:0}}
+
+.photo-pending{background:#f4f1eb;border:1px solid #ddd6ca;padding:28px;color:#666;font-size:14px;line-height:1.9}.photo-pending p{margin:0}footer{flex-wrap:wrap;gap:18px}

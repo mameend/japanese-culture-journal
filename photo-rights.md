@@ -43,3 +43,23 @@ The owner requested a design inspired by https://menomeonline.com/ and photograp
 Source inspection and captions checked by Codex on 2026-11-08 against official records. This is an automated editorial check, not separate human fact-check review. The existing essay body is unchanged; new factual text is limited to the photographed objects' titles, dates, attribution, collection, and rights.
 
 The monochrome candidate `outputs/tea-bowl-raku.jpg` (object 62884) was considered but is not used or uploaded. The former CSS hero is retired. Original API snapshots are retained locally in `evidence/`.
+
+
+## 2026-11-08 remediation — current publication
+
+The owner explicitly requested updates to GitHub and the public site after the image audit.
+This review does not conclude that the previous use was unauthorized.
+
+- All active photographs are recorded in assets.csv with file path, SHA-256, source, terms and actual uses, including list thumbnails.
+- Kutani and Hasami now use the historical Met CC0 examples already used in the regional guide (48822 and 63699). Both files were compared byte-for-byte with the official API primaryImageSmall. Official API snapshots are committed alongside the other 10 regional Met records.
+- The four contemporary Commons photographs (Kasama, Kutani teacup, Hasami display, Mino table setting) and the LACMA photograph were removed from all current pages and from the current repository tree. Their audit rows remain as retired_pending_verification. This is a conservative publication decision, not a finding that CC BY/CC BY-SA prohibits commercial use.
+- Kasama and Tsuboya remain available as complete articles with official maker links and text covers. No unrelated regional image was substituted.
+- Tobe: Commons identifies Gryffindor, CC0 1.0, and a 2018-01-15 background cleanup by PawełMM. Captions retain both names and identify the cleanup rather than claiming that the source was never modified. Source-file binary comparison remains pending; CC0 publication is based on the individual author declaration at https://commons.wikimedia.org/wiki/File:Aichi_Prefectural_Ceramic_Museum_(56).jpg .
+- Mashiko: the individual record states Public Domain. The museum's official dataset https://github.com/artsmia/collection/blob/main/objects/116/116947.json states rights_type=Public Domain, restricted=0, image_copyright=null. https://new.artsmia.org/copyright-and-image-access specifically permits commercial use and modification of PD images. It is not recorded as CC0. Source-file binary comparison remains pending. Captions do not assert verified absence of processing.
+- Met policy: https://www.metmuseum.org/policies/image-resources . CC0 permits commercial use and modification, without mandatory attribution or ShareAlike; credit is retained voluntarily.
+- Reader-facing bilingual image-credits pages provide source links and distinguish editorial copyright from image rights.
+- Retired material remains in Git history and in the audit ledger for provenance. Do not reuse it until the open source/binary/underlying-work questions recorded in its notes have been resolved.
+
+### Remaining scope limitations
+
+Source institutions' PD determinations and the Commons author's CC0 declaration are the basis of publication. This is not a guarantee of every third-party right in every jurisdiction. Do not replace unknown authors with an invented attribution. Future image additions must pass scripts/check_image_rights.py; the check verifies registration and file integrity, not legal ownership or licensing authority.
