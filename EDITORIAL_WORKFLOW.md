@@ -1,5 +1,9 @@
 # Editorial workflow
 
+## Temporary daily-publication trial — 2026-11-08 to 2026-11-14
+
+The owner authorized a one-week trial of daily KOTO updates without individual pre-publication confirmation, from November 8 through November 14, 2026 (Asia/Tokyo). During this period, new bilingual articles may be published after documented automated source, image-rights, editorial and technical checks. Unresolved factual or rights issues block publication. This exception concerns the approval/publication steps below only; the other editorial standards remain in effect. It is not evidence that a human reviewed each final article. Do not fill human-review fields on that basis. This trial note does not authorize automatic publication after November 14; follow the owner's subsequent direction.
+
 ## One article, one record
 
 Each article lives in `articles/<slug>/`. Keep Japanese and English drafts separate so edits and approvals can be tracked independently. English may be adapted for readers rather than translated sentence-for-sentence, but factual claims must retain the same meaning and evidence.

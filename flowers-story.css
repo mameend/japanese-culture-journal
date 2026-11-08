@@ -1,0 +1,9 @@
+/* Original typographic cover; no external image or font assets. */
+.flower-cover{min-height:320px;background:#eeece4;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:25px;padding:48px 24px;text-align:center;color:#4d5145}
+.flower-cover>span{font-family:var(--serif);font-size:clamp(36px,6vw,64px);font-weight:400;letter-spacing:.18em}
+.flower-cover>p{font-size:15px;line-height:1.9;letter-spacing:.08em}.flower-cover>small{font:9px/1.8 var(--sans);letter-spacing:.18em}
+.cover-credit{font:10px/1.8 var(--sans);color:var(--muted);margin:10px 0}
+.flower-story .story-prose section>p+p{margin-top:22px}.flower-story .story-prose a.inline-source{display:inline;text-decoration:underline;text-underline-offset:4px;font-size:13px}
+.flower-story .editorial-note{font:13px/1.9 var(--sans);color:var(--muted)}.flower-story .story-sources p{margin-top:18px}.flower-story .story-sources li{margin:10px 0;line-height:1.8}.flower-story .story-sources a{text-decoration:underline;text-underline-offset:4px}
+html[lang=en] .flower-story h1{letter-spacing:0;line-height:1.25}html[lang=en] .flower-story .story-prose p{line-height:1.9}html[lang=en] .flower-cover>span{letter-spacing:0}
+@media(max-width:600px){.flower-cover{min-height:250px;gap:20px;padding:35px 20px}.flower-cover>p{font-size:13px}.flower-story .story-intro .lead{font-size:16px}}
