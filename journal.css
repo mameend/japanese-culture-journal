@@ -7,3 +7,5 @@
 .regional-card img{object-fit:contain!important;background:#f4f1eb}.region-read{margin:0 0 50px 45px;font-size:15px}.region-read a{border-bottom:1px solid #a25c4d}@media(max-width:600px){.region-read{margin-left:0}}
 
 .photo-pending{background:#f4f1eb;border:1px solid #ddd6ca;padding:28px;color:#666;font-size:14px;line-height:1.9}.photo-pending p{margin:0}footer{flex-wrap:wrap;gap:18px}
+
+.flower-card img{object-position:50% 38%;background:#f7f9fa}

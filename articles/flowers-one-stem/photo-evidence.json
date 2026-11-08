@@ -1,0 +1,33 @@
+{
+  "asset_id": "asset-flower-photo-001",
+  "checked_on": "2026-11-08",
+  "photographer": "Marianne Krohn",
+  "photo_page": "https://unsplash.com/photos/a-single-pink-flower-in-a-clear-vase-z4NUcUZO-58",
+  "source_image_url": "https://images.unsplash.com/photo-1691600351161-46cf07eda7a7?auto=format&fit=crop&fm=jpg&ixid=NHwxMjA3fDA%3D&ixlib=rb-4.1.0&q=60&w=3000",
+  "file": "flowers-one-stem-marianne-krohn.jpg",
+  "width": 3000,
+  "height": 4500,
+  "bytes": 263754,
+  "sha256": "bc16c4fb19ccbfcd1fa49b25232bad90183897d11c244b9b12d2d9e18b64e06e",
+  "license_name": "Unsplash License",
+  "license_url": "https://unsplash.com/license",
+  "not_cc0_or_public_domain": true,
+  "commercial_use": "permitted without fee",
+  "modification": "permitted",
+  "attribution": "not required; provided voluntarily",
+  "restrictions": [
+    "Do not sell the image without significant modification.",
+    "Do not compile images to replicate a similar or competing service."
+  ],
+  "evidence_review": "Individual source page and official license opened and read; downloaded image visually inspected.",
+  "processing": "Source URL requests a 3000-pixel JPEG rendition. Downloaded bytes are copied unchanged to the repository. Display-only responsive CSS cropping. No claim about processing before download.",
+  "depiction": "Pale pink flower in a clear glass bottle against a light background. No person or readable brand/logo observed. No species, location, school or arrangement author asserted.",
+  "used_in": [
+    "category-flowers.en.html",
+    "category-flowers.html",
+    "flowers-one-stem.en.html",
+    "flowers-one-stem.html",
+    "index.en.html",
+    "index.html"
+  ]
+}

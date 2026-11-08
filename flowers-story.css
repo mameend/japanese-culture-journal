@@ -7,3 +7,5 @@
 .flower-story .editorial-note{font:13px/1.9 var(--sans);color:var(--muted)}.flower-story .story-sources p{margin-top:18px}.flower-story .story-sources li{margin:10px 0;line-height:1.8}.flower-story .story-sources a{text-decoration:underline;text-underline-offset:4px}
 html[lang=en] .flower-story h1{letter-spacing:0;line-height:1.25}html[lang=en] .flower-story .story-prose p{line-height:1.9}html[lang=en] .flower-cover>span{letter-spacing:0}
 @media(max-width:600px){.flower-cover{min-height:250px;gap:20px;padding:35px 20px}.flower-cover>p{font-size:13px}.flower-story .story-intro .lead{font-size:16px}}
+
+.flower-story>.flower-photo{margin:0;background:#f7f9fa}.flower-story>.flower-photo img{width:100%;height:auto;aspect-ratio:4/3;max-height:none;object-fit:cover;object-position:50% 38%;background:#f7f9fa}.flower-story>.flower-photo figcaption{margin-top:0;padding:18px 22px;background:#faf9f6}

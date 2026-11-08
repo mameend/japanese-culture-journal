@@ -87,7 +87,17 @@
 
 ## 出典と記事について
 
-池坊と草月流の公式資料を2026年11月8日に確認しました。文化紹介の出典は下記のとおりです。家庭での楽しみ方や感じ方はKOTOの編集文で、取材記事や各流派の監修・推薦ではありません。第三者の作品写真は使用していません。
+池坊と草月流の公式資料を2026年11月8日に確認しました。文化紹介の出典は下記のとおりです。家庭での楽しみ方や感じ方はKOTOの編集文で、取材記事や各流派の監修・推薦ではありません。写真の出典・利用条件は公開ページの写真下に記載しています。
 
 - https://www.ikenobo.jp/english/about/
 - https://www.sogetsu.or.jp/about/
+
+
+## 写真
+
+ガラスの器に、淡いピンクの花を一輪。
+
+Photo: Marianne Krohn / Unsplash. 無料で商用利用・改変可。写真は表示枠に合わせてトリミングしています。
+
+- https://unsplash.com/photos/a-single-pink-flower-in-a-clear-vase-z4NUcUZO-58
+- https://unsplash.com/license

@@ -63,3 +63,15 @@ This review does not conclude that the previous use was unauthorized.
 ### Remaining scope limitations
 
 Source institutions' PD determinations and the Commons author's CC0 declaration are the basis of publication. This is not a guarantee of every third-party right in every jurisdiction. Do not replace unknown authors with an invented attribution. Future image additions must pass scripts/check_image_rights.py; the check verifies registration and file integrity, not legal ownership or licensing authority.
+
+
+## 2026-11-08 — flower article photograph
+
+- Article: `flowers-one-stem.html` and its English edition. The owner requested a suitable free-to-use photograph after reviewing the article.
+- Photographer: Marianne Krohn, as identified by the [individual Unsplash photo page](https://unsplash.com/photos/a-single-pink-flower-in-a-clear-vase-z4NUcUZO-58).
+- License: [Unsplash License](https://unsplash.com/license), opened on 2026-11-08. It permits free commercial use and modification worldwide without mandatory attribution. It is not CC0 or a public-domain dedication.
+- Restrictions: no sale without significant modification; no compilation to replicate a similar or competing image service. The use here is an editorial illustration, not a standalone image sale or image-library service.
+- Voluntary credit and links are displayed in Japanese/English captions and image-credit pages. No photographer or school endorsement is claimed.
+- File: `flowers-one-stem-marianne-krohn.jpg`, SHA-256 `bc16c4fb19ccbfcd1fa49b25232bad90183897d11c244b9b12d2d9e18b64e06e`. The repository copy is byte-identical to the downloaded 3000-pixel JPEG rendition. The browser crops its display to fit the article and card layouts. No other local processing was performed and no statement is made about processing before download.
+- The inspected photograph shows a pale pink flower in a plain clear glass bottle, with no identifiable person, readable brand, or separately reproduced artwork observed. We do not assert the flower species, arrangement author, location, or affiliation with any ikebana school.
+- Structured evidence and all six use locations: `articles/flowers-one-stem/photo-evidence.json` and `assets.csv`.

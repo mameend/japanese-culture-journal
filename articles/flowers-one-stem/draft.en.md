@@ -87,7 +87,17 @@ If you would like to learn more, explore the work and lesson information on the 
 
 ## Sources and editorial note
 
-The official Ikenobo and Sogetsu pages below were checked on 8 November 2026. They support the descriptions of the schools. Suggestions for looking at and enjoying flowers are KOTO’s editorial writing. This is not a reported interview or an article reviewed or endorsed by either school. No third-party photographs of arrangements are used.
+The official Ikenobo and Sogetsu pages below were checked on 8 November 2026. They support the descriptions of the schools. Suggestions for looking at and enjoying flowers are KOTO’s editorial writing. This is not a reported interview or an article reviewed or endorsed by either school. The photograph’s source and license are listed in the published page’s caption.
 
 - https://www.ikenobo.jp/english/about/
 - https://www.sogetsu.or.jp/e/about/
+
+
+## Photograph
+
+One pale pink flower in a clear glass vessel.
+
+Photo: Marianne Krohn / Unsplash. Free commercial use and modification permitted. The display is cropped to fit the layout.
+
+- https://unsplash.com/photos/a-single-pink-flower-in-a-clear-vase-z4NUcUZO-58
+- https://unsplash.com/license
