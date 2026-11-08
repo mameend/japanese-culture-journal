@@ -30,3 +30,7 @@ Each article lives in `articles/<slug>/`. Keep Japanese and English drafts separ
 ## Using Codex
 
 Ask Codex to edit only the specified draft or records, then inspect the resulting diff. Useful requests include: “list unsupported factual claims,” “compare the JP and EN drafts for meaning,” and “check that every used image has a complete rights record.” These are preparation aids, not approval. Never treat an AI-generated source, citation, license statement, or fact-check as verified without opening the evidence.
+
+## Home-page selection and category names
+
+When publishing a new daily article, preserve the seasonal TOP section and follow `SEASONAL_PICKS.md`. Add the Japanese and English cards to the existing archives; reviewed season metadata is optional for ordinary category reading and required for a seasonal recommendation. Fetch current `main` before editing shared home/category pages. The former 思想 / Ideas category is now 文化 / Culture; retain its `category-ideas` URLs. Use 暮らしのテーマ / Themes for everyday life for the category directory heading.

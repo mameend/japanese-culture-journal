@@ -1,0 +1,23 @@
+/* Home-page recommendations share the journal's type, palette and spacing. */
+.seasonal-picks{max-width:1200px;margin:0 auto 76px;padding:0 36px}
+.seasonal-header{border-top:1px solid var(--ink);padding-top:24px;display:flex;justify-content:space-between;align-items:baseline;gap:24px}
+.seasonal-header h2{font-size:clamp(25px,3vw,34px);line-height:1.6;letter-spacing:.04em;font-weight:400;margin:14px 0}
+.seasonal-period{font:10px/1.8 var(--sans);color:var(--red);letter-spacing:.12em;white-space:nowrap}
+.seasonal-intro{font-size:13px;line-height:2;color:var(--muted);max-width:740px}
+.seasonal-calendar{font:10px/1.8 var(--sans);color:var(--muted);margin-top:8px}
+.seasonal-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));column-gap:32px;row-gap:40px;margin-top:34px}
+.seasonal-card{display:flex;flex-direction:column;min-width:0;border-bottom:1px solid var(--line);padding-bottom:24px}
+.seasonal-category{align-self:flex-start;font:12px/1.7 var(--sans);letter-spacing:.12em;margin-bottom:16px;color:var(--red)}
+.seasonal-image{display:block}.seasonal-image img,.seasonal-image .type-cover{aspect-ratio:4/3;width:100%}.seasonal-image .type-cover span{font-size:20px;letter-spacing:.15em}
+.seasonal-label{align-self:flex-start;color:var(--muted);background:var(--wash);font:10px/1.7 var(--sans);padding:4px 9px;margin:20px 0 12px}
+[data-match=seasonal] .seasonal-label{color:var(--red);background:#f6efeb}
+.seasonal-card h3{font-size:23px;font-weight:400;line-height:1.7;overflow-wrap:anywhere}
+.seasonal-card h3 span{font-size:15px;color:var(--red)}
+.seasonal-description{font-size:12px;line-height:2;color:var(--muted);margin:14px 0 22px}
+.seasonal-browse{align-self:flex-start;margin-top:auto;font:11px/1.8 var(--sans);text-decoration:underline;text-underline-offset:5px;padding:4px 0}
+.seasonal-empty-mark{display:flex;align-items:center;justify-content:center;aspect-ratio:4/3;background:var(--wash);color:#79786d;font-size:42px;letter-spacing:.12em}
+.seasonal-fallback{font-size:18px;padding:20px 0;border-bottom:1px solid var(--line)}
+.home-archive-heading{font-size:26px;font-weight:400;margin-bottom:24px}
+html[lang=en] .seasonal-header h2{letter-spacing:0;line-height:1.25}html[lang=en] .seasonal-card h3{font-size:24px;line-height:1.4}html[lang=en] .seasonal-description{font-size:14px;line-height:1.8}
+@media(max-width:960px){.seasonal-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:36px 24px}.seasonal-header{display:block}.seasonal-period{margin:0 0 12px}}
+@media(max-width:600px){.seasonal-picks{padding:0 24px;margin-bottom:48px}.seasonal-grid{grid-template-columns:1fr;gap:32px}.seasonal-header h2{font-size:27px}.seasonal-card h3{font-size:24px}.seasonal-description{font-size:13px}.seasonal-grid{margin-top:28px}}
