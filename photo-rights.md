@@ -75,3 +75,14 @@ Source institutions' PD determinations and the Commons author's CC0 declaration 
 - File: `flowers-one-stem-marianne-krohn.jpg`, SHA-256 `bc16c4fb19ccbfcd1fa49b25232bad90183897d11c244b9b12d2d9e18b64e06e`. The repository copy is byte-identical to the downloaded 3000-pixel JPEG rendition. The browser crops its display to fit the article and card layouts. No other local processing was performed and no statement is made about processing before download.
 - The inspected photograph shows a pale pink flower in a plain clear glass bottle, with no identifiable person, readable brand, or separately reproduced artwork observed. We do not assert the flower species, arrangement author, location, or affiliation with any ikebana school.
 - Structured evidence and all six use locations: `articles/flowers-one-stem/photo-evidence.json` and `assets.csv`.
+
+
+## 2026-11-08 — two historical tea bowls from Cleveland
+
+The second photograph in Between Tea and Ceramics now shows Shigaraki Tea Bowl (1600s), CMA 1976.25. The Karatsu article hero now shows Tea Bowl (c. 1600), CMA 1983.158. The Red Raku hero and existing Karatsu listing photographs remain unchanged. These are historical illustrative objects, not works by contemporary makers discussed or visual references supplied for this edit. No photographs or text from Instagram accounts were reproduced.
+
+Both official object pages and their Download panels identify the images as Public Domain. The [museum Open Access policy](https://www.clevelandart.org/open-access), Collection Online Art Detail Page section, explicitly limits collection-page image downloads to CC0 artworks. CC0 permits commercial use and modification without mandatory attribution or ShareAlike. Museum, accession and gift credits are included voluntarily; no endorsement is implied. Access verified 2026-11-08.
+
+Sources: https://www.clevelandart.org/art/1976.25 and https://www.clevelandart.org/art/1983.158 . Downloaded print JPEGs were resized to 1600 pixels wide and compressed at quality 88, retaining the full frame and without color changes or generative edits. Source and output hashes, exact dimensions, credits, rights evidence and verification date are recorded in `cma-vessels-evidence.json` and `assets.csv`.
+
+The Mishima image is retired from current publication; its historical rights record and source snapshot remain. The old Karatsu image is still used in listing pages, so its credit and active record remain.

@@ -1,0 +1,44 @@
+[
+  {
+    "accession": "1976.25",
+    "title": "Tea Bowl (Shigaraki ware), 1600s",
+    "source_page": "https://www.clevelandart.org/art/1976.25",
+    "download": "Official collection page Download > Print image",
+    "source_filename": "1976.25_print.jpg",
+    "source_sha256": "bfe2c0f7d5cde6cd440e22ddfcfa75ddec459211e0e35b90c003900009ddcad7",
+    "file_path": "tea-bowl-shigaraki-cma.jpg",
+    "sha256": "22165db0992465e4799e06372027fc9a75545f3f7954513329dda7cdf5fc0e5e",
+    "dimensions": [
+      1600,
+      1366
+    ],
+    "credit": "The Cleveland Museum of Art. Gift of Seibei Yamaoka. 1976.25.",
+    "license": "CC0 1.0 / Public Domain",
+    "policy": "https://www.clevelandart.org/open-access",
+    "verified_on": "2026-11-08",
+    "rights_evidence": "Individual object page and Download modal identify Public Domain and permit copy, modify, distribute without permission. Open Access policy Collection Online Art Detail Page section states image downloads are only available for CC0 artworks.",
+    "processing": "Resized from official print JPEG to 1600 pixels wide, JPEG quality 88. Full frame retained; no color changes or generative edits.",
+    "use_context": "Historical illustrative object; not a work by the contemporary makers referenced in the article."
+  },
+  {
+    "accession": "1983.158",
+    "title": "Tea Bowl (Karatsu ware), c. 1600",
+    "source_page": "https://www.clevelandart.org/art/1983.158",
+    "download": "Official collection page Download > Print image",
+    "source_filename": "1983.158_print.jpg",
+    "source_sha256": "26dd694efc6ad9b28842e0d7a78338025b04a4ff57abbec859fe53605a699b4a",
+    "file_path": "tea-bowl-karatsu-cma.jpg",
+    "sha256": "fd5ae9e71354f1d2fa7a2fe29584cc27b138ea8d2db98b34370acb7282d1e62c",
+    "dimensions": [
+      1600,
+      1085
+    ],
+    "credit": "The Cleveland Museum of Art. Gift of Iwao and Takako Setsu in honor of Dr. and Mrs. Sherman E. Lee. 1983.158.",
+    "license": "CC0 1.0 / Public Domain",
+    "policy": "https://www.clevelandart.org/open-access",
+    "verified_on": "2026-11-08",
+    "rights_evidence": "Individual object page and Download modal identify Public Domain and permit copy, modify, distribute without permission. Open Access policy Collection Online Art Detail Page section states image downloads are only available for CC0 artworks.",
+    "processing": "Resized from official print JPEG to 1600 pixels wide, JPEG quality 88. Full frame retained; no color changes or generative edits.",
+    "use_context": "Historical illustrative object; not a work by the contemporary makers referenced in the article."
+  }
+]
