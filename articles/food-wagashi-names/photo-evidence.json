@@ -1,0 +1,37 @@
+{
+  "asset_id": "asset-wagashi-photo-001",
+  "creator": "Szymon Shields",
+  "source_page": "https://www.pexels.com/fr-fr/photo/wagashi-japonais-minimaliste-sur-assiette-en-bois-39692081/",
+  "source_image_url": "https://images.pexels.com/photos/39692081/pexels-photo-39692081/free-photo-of-wagashi-japonais-minimaliste-sur-assiette-en-bois.jpeg?auto=compress&dpr=1&h=750&w=1260",
+  "license": "Pexels License (not CC0)",
+  "license_url": "https://www.pexels.com/license/",
+  "checked_on": "2026-11-08",
+  "commercial_use": true,
+  "modification_allowed": true,
+  "attribution_required": false,
+  "voluntary_attribution": "Photo: Szymon Shields / Pexels",
+  "restrictions": "No sale of unaltered copies; no stock or wallpaper redistribution; no implied endorsement; no trademark use; no offensive use of identifiable people. Other depicted rights are not blanket-cleared.",
+  "file_path": "wagashi-names-szymon-shields.jpg",
+  "size_bytes": 40350,
+  "dimensions": [
+    1125,
+    750
+  ],
+  "sha256": "d0eec425bc5d53b47f2f9919b4be035d7a3be2f37eac4e75ab260c2918f8aa99",
+  "rights_status": "verified_pexels_license",
+  "source_original_dimensions": [
+    6000,
+    4000
+  ],
+  "source_identification": "Individual source explicitly describes wagashi in Tokyo, Japan; photographer Szymon Shields. Uploaded September 23, 2026; photographed April 9, 2026.",
+  "visual_inspection": "Actual downloaded bytes inspected: single pale round confection on white paper on dark wooden plate, dark background. No visible people, logos, text or identifiable separately protected artwork. Individual name and maker not established.",
+  "alterations": "Provider-supplied resized/compressed rendition downloaded unchanged. Article displays full 3:2 image. Listing cards may use CSS cropping (cover, center); no local byte modification.",
+  "planned_uses": [
+    "food-wagashi-names.html",
+    "food-wagashi-names.en.html",
+    "index.html",
+    "index.en.html",
+    "category-food.html",
+    "category-food.en.html"
+  ]
+}

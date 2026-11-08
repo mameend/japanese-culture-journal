@@ -1,0 +1,33 @@
+{
+  "asset_id": "asset-kimono-plum-001",
+  "object_id": 45385,
+  "source_page": "https://www.metmuseum.org/art/collection/search/45385",
+  "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/45385",
+  "api_evidence": "met-45385.json",
+  "isPublicDomain": true,
+  "source_image_url": "https://images.metmuseum.org/CRDImages/as/original/DP-22456-001.jpg",
+  "license": "CC0 1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "policy_url": "https://www.metmuseum.org/policies/image-resources",
+  "verified_date": "2026-11-08",
+  "commercial_use": true,
+  "modifications_permitted": true,
+  "attribution_required": false,
+  "voluntary_credit": "The Metropolitan Museum of Art; Gift of Mr. and Mrs. Victor R. King, 1976; 1976.281",
+  "photographer": "Not individually identified by source; institution credited as image provider",
+  "sha256": "ec10b58c880dc0674d0c3b5e3c6cb5c65de1910ba87dd5f0d40c198b1dcb80c2",
+  "width": 3000,
+  "height": 4000,
+  "file_bytes": 1920468,
+  "file_modifications": "None. Original downloaded full-resolution JPEG retained.",
+  "display": "Full image, object-fit:contain, no crop; same required for cards.",
+  "visual_inspection": "Downloaded bytes opened and inspected: gray kimono fully visible, plum branch visible near lower left hem; no people or logos. Hidden lining is not shown.",
+  "used_in": [
+    "kimono-plum-pattern.html",
+    "kimono-plum-pattern.en.html",
+    "index.html",
+    "index.en.html",
+    "category-kimono.html",
+    "category-kimono.en.html"
+  ]
+}
