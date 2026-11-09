@@ -86,3 +86,8 @@ Both official object pages and their Download panels identify the images as Publ
 Sources: https://www.clevelandart.org/art/1976.25 and https://www.clevelandart.org/art/1983.158 . Downloaded print JPEGs were resized to 1600 pixels wide and compressed at quality 88, retaining the full frame and without color changes or generative edits. Source and output hashes, exact dimensions, credits, rights evidence and verification date are recorded in `cma-vessels-evidence.json` and `assets.csv`.
 
 The Mishima image is retired from current publication; its historical rights record and source snapshot remain. The old Karatsu image is still used in listing pages, so its credit and active record remain.
+
+
+## 2026-11-09: historical furoshiki
+
+Cleveland Museum of Art 1920.1948, Wrapper (Furoshiki), Japan, 1800s, cotton. Official collection page and API identify image rights as CC0. Commercial use, modification and display allowed, without mandatory attribution or ShareAlike; voluntary source and license credits shown in both languages. Complete cloth retained; web version resized to 1600×1548 and JPEG-compressed. No crop, colour changes or generative edits. Evidence and hashes: articles/culture-furoshiki/photo-evidence.json and museum-record.json. The illustrated CMA textile is distinct from the ICU example in the text. Tea and miso articles use original typographic covers. No human editorial sign-off claimed.

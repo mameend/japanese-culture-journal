@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-09",
+  "base_commit": "f9f799b6982f10830b36ef9d23693249c9f5892c",
+  "authorization": "Daily automated-publication trial, November 8–14, 2026 (Asia/Tokyo); no individual human editorial approval claimed",
+  "articles": [
+    "tea-hojicha-aroma",
+    "culture-furoshiki",
+    "food-miso-everyday"
+  ],
+  "editorial_checks": {
+    "primary_sources_opened": 8,
+    "bilingual_review": "passed with source mapping and wording corrections applied",
+    "invented_visits_tastings_interviews": false,
+    "unresolved_factual_markers": false
+  },
+  "image_checks": {
+    "new_photo": "CMA 1920.1948, CC0; full-frame resize and JPEG compression",
+    "text_covers": [
+      "tea-hojicha-aroma",
+      "food-miso-everyday"
+    ],
+    "retired_or_pending_assets_reused": false
+  },
+  "technical_checks": {
+    "check_image_rights": "passed: 64 HTML pages, 21 active photos",
+    "check_links": "passed: 64 pages, 1910 local references, fragments, canonical, hreflang, language links, category/archive counts",
+    "node_syntax": "passed",
+    "seasonal_unit_tests": "9 passed",
+    "full_local_browser_suite": "blocked: Chromium process socket not permitted; not claimed passed",
+    "supported_browser_local_preview": "unavailable: loopback connection refused",
+    "deployed_browser_verification": "To be performed after main publication"
+  },
+  "publishing_status": "validated release candidate; final deployment verification is separate"
+}

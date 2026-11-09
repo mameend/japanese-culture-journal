@@ -2,7 +2,9 @@
   "version": 1,
   "articles": {
     "food-wagashi-names": {
-      "seasons": ["autumn"],
+      "seasons": [
+        "autumn"
+      ],
       "evergreen": true,
       "reason": {
         "ja": "紅葉を表す菓銘「竜田」から、秋のおやつを楽しむ。",
@@ -11,13 +13,28 @@
       "evidence": "The published article explains Tatsuta, a wagashi name associated with autumn foliage, citing the Japan Wagashi Association."
     },
     "ceramics-banko": {
-      "seasons": ["autumn", "winter"],
+      "seasons": [
+        "autumn",
+        "winter"
+      ],
       "evergreen": true,
       "reason": {
         "ja": "温かな料理を囲む日に。作る器から、食卓を考える。",
         "en": "For a warming meal: consider the vessel that cooks it and brings it to the table."
       },
       "evidence": "Editorial recommendation for cooler months, grounded in the article's warm-meal and cooking-vessel examples. This is not a claim that Banko ware belongs to one season."
+    },
+    "tea-hojicha-aroma": {
+      "seasons": [
+        "autumn",
+        "winter"
+      ],
+      "evergreen": true,
+      "reason": {
+        "ja": "温かなほうじ茶の香りを、ひと息つく時間に。",
+        "en": "Make a warming cup of roasted tea part of an unhurried break."
+      },
+      "evidence": "Editorial suggestion for cooler months, grounded in the published article’s hot-brewing and steam examples. Hojicha is enjoyed year-round; no historical seasonal restriction is claimed."
     }
   }
 }

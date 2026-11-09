@@ -1,0 +1,42 @@
+{
+  "verification_date": "2026-11-09",
+  "verification_method": "Individual source page and linked license opened using web tool; downloaded exact source rendition; inspected actual local image pixels. Automated editorial review, not human or legal certification.",
+  "mandatory_attribution": false,
+  "not_reused_from_registry": true,
+  "filename": "furoshiki-cma-1920-1948-web-compact.jpg",
+  "creator": "The Cleveland Museum of Art (image provider; photographer not individually named); textile maker unidentified",
+  "source_page": "https://www.clevelandart.org/art/1920.1948",
+  "source_image_url": "https://openaccess-cdn.clevelandart.org/1920.1948/1920.1948_print.jpg",
+  "license": "CC0 1.0 / Public Domain",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "policy_url": "https://www.clevelandart.org/open-access",
+  "source_api_url": "https://openaccess-api.clevelandart.org/api/artworks/?accession_number=1920.1948",
+  "source_evidence": "Official object page permits copy/modify/distribute without permission. Saved official API record: share_license_status=CC0, copyright=null, title=Wrapper (Furoshiki), creation_date=1800s, culture=Japan, technique=cotton; exact print image URL supplied. Museum policy states downloadable images are CC0 and permits commercial reuse.",
+  "commercial_use_confirmed": true,
+  "modification_conditions": "CC0 permits commercial use, modification, redistribution and display; no mandatory attribution or ShareAlike. Do not imply endorsement or use museum trademarks as branding.",
+  "modifications": "Technical derivative: full original frame resized from 3400 x 3289 to 1600 x 1548 using Lanczos resampling; JPEG quality 65, optimized encoding. No cropping, color adjustment, compositing or generative editing. Original preserved. Display full frame with object-fit: contain.",
+  "attribution_ja": "《風呂敷》日本、19世紀、綿。クリーブランド美術館、General Income Fund、1920.1948。画像：同館、CC0。",
+  "attribution_en": "Wrapper (Furoshiki), Japan, 1800s, cotton. The Cleveland Museum of Art, General Income Fund, 1920.1948. Image: Cleveland Museum of Art, CC0.",
+  "topic_limitations": "Historical 19th-century cotton furoshiki laid flat; not modern wrapping instructions, not a named contemporary maker or product. Aging, holes and conservation support patches visible. Do not claim patches prove original household repairs.",
+  "visual_review": "Full cream cotton square with faded red/brown botanical pattern, wear, holes and two pale support patches; neutral gray background. Exact museum object; no people or modern branding.",
+  "rights_status": "verified_cc0",
+  "recommendation": "Usable for historical furoshiki illustration; strongest clean candidate. Preserve full frame.",
+  "sha256": "a07c18a6e37af3018ab606ae089b8309351e8858c630cb16156316b906a4e1a1",
+  "dimensions": [
+    1600,
+    1548
+  ],
+  "bytes": 479597,
+  "original": {
+    "filename": "furoshiki-cma-1920-1948.jpg",
+    "sha256": "8ddc8bcf1d119b124beae4db6c87669d002bd2a0a7ca0d9a07bf4f1c5b6f0696",
+    "dimensions": [
+      3400,
+      3289
+    ],
+    "bytes": 4488039
+  },
+  "caption_distinction_ja": "写真はクリーブランド美術館所蔵の別の作例。本文で紹介するICU所蔵の熨斗・宝尽くし文様の風呂敷とは異なります。",
+  "caption_distinction_en": "A separate example in the Cleveland Museum of Art collection, distinct from the ICU cloth with noshi and treasure motifs discussed in the text.",
+  "published_filename": "furoshiki-cma-1920-1948-web-compact.jpg"
+}
