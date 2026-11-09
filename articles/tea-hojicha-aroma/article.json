@@ -142,5 +142,14 @@
   "source_note": {
     "ja": "文化・製造の紹介は農林水産省と石川県茶商工業協同組合の公開資料を2026年11月9日に確認して執筆しました。飲み比べやおやつの合わせ方はKOTOの編集上の提案です。現地取材、各団体の監修・推薦を示すものではありません。",
     "en": "Cultural and production details draw on public materials from MAFF and the Ishikawa tea trade cooperative, checked on 9 November 2026. Tasting and pairing ideas are KOTO editorial suggestions. This is not a field report or an endorsement by the organizations cited."
+  },
+  "image": {
+    "filename": "tea-preparation-dasha-xue.jpg",
+    "creator": "dasha xue",
+    "source_url": "https://unsplash.com/photos/a-teapot-with-a-tea-in-it-next-to-a-cup-of-tea-wfPHLYmZocc",
+    "license": "Unsplash License",
+    "caption_ja": "茶の茎を急須へ。お茶を淹れる前のひととき。写真の茶の種類・産地は独自に確認していません。",
+    "caption_en": "Tea stems being added to a teapot, a moment before brewing. The tea’s type and origin have not been independently verified.",
+    "rights_evidence": "photo-evidence.json"
   }
 }

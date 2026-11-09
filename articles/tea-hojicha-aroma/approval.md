@@ -13,3 +13,7 @@ Target URLs:
 - https://mameend.github.io/japanese-culture-journal/tea-hojicha-aroma.en.html
 
 Deployment must be confirmed separately after the main update.
+
+## Photo update, 2026-11-09
+
+Photo-only update prepared under the same authorized trial. Individual source, commercial license, visible subject and identifiable third-party-rights concerns reviewed. Bilingual captions do not independently identify the tea type or origin, and the source tag is not used as proof. Automated checks are required before publication; no final human editorial review is claimed.

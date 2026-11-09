@@ -1,0 +1,48 @@
+{
+  "verification_date": "2026-11-09",
+  "verification_method": "Individual source page, Unsplash License and Terms section 5 opened on 2026-11-09. The source image URL matches the previously downloaded file evidence; actual local pixels inspected and independently reviewed. Automated editorial assessment, not human or legal certification.",
+  "mandatory_attribution": false,
+  "not_reused_from_registry": true,
+  "license": "Unsplash License (not CC0)",
+  "license_url": "https://unsplash.com/license",
+  "terms_url": "https://unsplash.com/terms",
+  "commercial_use_confirmed": true,
+  "modification_conditions": "Worldwide copyright permission to download, copy, modify, distribute, perform and use, including commercial use. Attribution optional; no ShareAlike. No selling unaltered images or compiling a competing stock service. No implied endorsement. License does not independently grant rights to recognizable people, logos, brands or works of authorship depicted.",
+  "modifications": "Downloaded source-served JPEG rendition at w=3000, q=60. Local bytes unchanged; no local crop, resizing, color edits or generative edits. CSS crop may be used if documented.",
+  "filename": "tea-preparation-dasha-xue.jpg",
+  "creator": "dasha xue",
+  "source_page": "https://unsplash.com/photos/a-teapot-with-a-tea-in-it-next-to-a-cup-of-tea-wfPHLYmZocc",
+  "source_image_url": "https://images.unsplash.com/photo-1729259586624-fbff74362a5c?auto=format&fit=crop&fm=jpg&ixid=NHwxMjA3fDA%3D&ixlib=rb-4.1.0&q=60&w=3000",
+  "source_evidence": "The individual page credits dasha xue, was published October 18, 2024 and explicitly links the free Unsplash License. Its hojicha tag is not treated as independent verification of tea type or origin.",
+  "attribution_ja": "写真：dasha xue / Unsplash（Unsplash License）",
+  "attribution_en": "Photo: dasha xue / Unsplash (Unsplash License).",
+  "topic_limitations": "A general tea-preparation scene with dry stems being added to a teapot. Neither tea type nor origin is independently verified. Do not identify it as Kaga bocha, a specific hojicha, an Ishikawa product, a brewed cup or a roasting process.",
+  "visual_review": "Muted yellow ceramic teapot, linen, dry tea stems, metal scoop and a floral motif on the lid. No recognizable people, readable branding, signature, protected character or identified standalone artwork is apparent. The floral decoration has no separately verified authorship or clearance; its mere presence does not establish a concrete additional permission requirement. This is a reasonable editorial risk assessment, not legal certification of all depicted objects.",
+  "rights_status": "verified_unsplash_license",
+  "recommendation": "Accepted as a neutral tea-preparation illustration with explicit bilingual limits on tea identification; do not use the source tag as proof of the beverage.",
+  "sha256": "f9ab3d32bb12d94832d23b76b4e604fe0f0df0817e1cd6d56f9307c23fce41b5",
+  "dimensions": [
+    3000,
+    1687
+  ],
+  "bytes": 395509,
+  "published_filename": "tea-preparation-dasha-xue.jpg",
+  "previous_review": "Initially withheld conservatively for decorated pottery and uncertain tea identification. Renewed visual/editorial review distinguishes an unidentified functional-object motif from a concrete rights issue; captions now avoid identifying tea type or origin.",
+  "used_in": [
+    "category-tea.en.html",
+    "category-tea.html",
+    "index.en.html",
+    "index.html",
+    "tea-hojicha-aroma.en.html",
+    "tea-hojicha-aroma.html"
+  ],
+  "prepublication_checks": {
+    "image_rights": "passed: 64 HTML pages, 23 active photos, hashes and inventory verified",
+    "links": "passed: 64 pages and 1926 local references; language pairs, metadata, counts and seasonal section verified",
+    "seasonal_script_syntax": "passed",
+    "seasonal_tests": "9 passed",
+    "git_diff_check": "passed",
+    "homepage_browser_suite": "blocked: Chromium socket() Operation not permitted; not claimed passed",
+    "deployment_verification": "Required after main update"
+  }
+}

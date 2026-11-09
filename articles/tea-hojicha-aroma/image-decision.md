@@ -1,3 +1,5 @@
 # Image decision
 
-2026-11-09: Original HTML/CSS typographic cover used. No third-party photo is displayed. Candidate images did not meet the combined subject-fit and rights-verification threshold. Retired and pending assets were not reused.
+Updated 2026-11-09 after publication. The initial typographic cover is replaced by dasha xue’s photograph of tea preparation under the free Unsplash License. The picture shows dry stems being added to a teapot; it is not evidence of a brewed cup, roasting, a specific hojicha or Kaga bocha. Both captions expressly state that tea type and origin have not been independently verified. Source tags alone do not establish identity.
+
+Actual pixels, the individual source page, license and third-party-rights limits were reviewed. No recognizable person, readable branding, signature, protected character or identified standalone artwork is apparent. The lid’s floral motif is visible, but its separate authorship and clearance are not verified. Its presence alone was not treated as evidence of a concrete separate rights issue. This is a proportionate editorial assessment, not blanket legal certification or human sign-off. See photo-evidence.json and assets.csv. No registered retired or pending image was reused.
