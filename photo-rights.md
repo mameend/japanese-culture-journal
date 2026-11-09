@@ -91,3 +91,8 @@ The Mishima image is retired from current publication; its historical rights rec
 ## 2026-11-09: historical furoshiki
 
 Cleveland Museum of Art 1920.1948, Wrapper (Furoshiki), Japan, 1800s, cotton. Official collection page and API identify image rights as CC0. Commercial use, modification and display allowed, without mandatory attribution or ShareAlike; voluntary source and license credits shown in both languages. Complete cloth retained; web version resized to 1600×1548 and JPEG-compressed. No crop, colour changes or generative edits. Evidence and hashes: articles/culture-furoshiki/photo-evidence.json and museum-record.json. The illustrated CMA textile is distinct from the ICU example in the text. Tea and miso articles use original typographic covers. No human editorial sign-off claimed.
+
+
+## 2026-11-09: miso soup illustration
+
+Seiya Maeda’s photograph Mk3NKQboQkA was checked on its individual Unsplash page and against the Unsplash License and Terms section 5. The free license permits commercial use, display and modification; optional source credit is displayed in both languages. No identifiable people, readable logos or standalone artwork are apparent. Incidental patterned chopsticks do not establish a concrete additional rights issue; no blanket legal certification is claimed. The image illustrates miso soup without identifying the miso category. Downloaded JPEG bytes are unchanged; archive cards may use CSS cropping. Evidence, dimensions and SHA256 are recorded in articles/food-miso-everyday/photo-evidence.json. No costs incurred.

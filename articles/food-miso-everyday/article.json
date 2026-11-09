@@ -174,16 +174,12 @@
     }
   ],
   "image": {
-    "recommendation": "Use an original typographic cover. No third-party photo verified or downloaded.",
-    "text_ja": [
-      "米",
-      "麦",
-      "豆"
-    ],
-    "text_en": [
-      "RICE",
-      "BARLEY",
-      "SOYBEANS"
-    ]
+    "filename": "miso-soup-seiya-maeda.jpg",
+    "creator": "Seiya Maeda",
+    "source_url": "https://unsplash.com/photos/a-wooden-bowl-filled-with-soup-next-to-chopsticks-Mk3NKQboQkA",
+    "license": "Unsplash License",
+    "caption_ja": "味噌汁の一例。米味噌・麦味噌・豆味噌のいずれを使用したかは特定していません。",
+    "caption_en": "An example of miso soup. The image does not identify rice, barley or soybean miso.",
+    "rights_evidence": "photo-evidence.json"
   }
 }

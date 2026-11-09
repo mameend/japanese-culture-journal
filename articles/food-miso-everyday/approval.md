@@ -13,3 +13,7 @@ Target URLs:
 - https://mameend.github.io/japanese-culture-journal/food-miso-everyday.en.html
 
 Deployment must be confirmed separately after the main update.
+
+## Photo update, 2026-11-09
+
+Photo-only update prepared under the same authorized trial. Individual source, commercial license, visual subject fit and identifiable third-party-rights concerns were reviewed. Bilingual captions do not identify the miso type. Image-rights and local-link checks pass; no final human editorial review is claimed.

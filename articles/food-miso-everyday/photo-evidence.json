@@ -1,0 +1,39 @@
+{
+  "verification_date": "2026-11-09",
+  "verification_method": "Individual source page, Unsplash License and Terms section 5 opened on 2026-11-09. Downloaded file pixels inspected and independently reviewed for source fit and identifiable third-party rights issues. No human or legal certification claimed.",
+  "mandatory_attribution": false,
+  "not_reused_from_registry": true,
+  "license": "Unsplash License (not CC0)",
+  "license_url": "https://unsplash.com/license",
+  "terms_url": "https://unsplash.com/terms",
+  "commercial_use_confirmed": true,
+  "modification_conditions": "Worldwide copyright permission to download, copy, modify, distribute, perform and use, including commercial use. Attribution optional; no ShareAlike. No selling unaltered images or compiling a competing stock service. No implied endorsement. License does not independently grant rights to recognizable people, logos, brands or works of authorship depicted.",
+  "modifications": "Downloaded source-served JPEG rendition at w=3000, q=60. Local bytes unchanged; no local crop, resizing, color edits or generative edits. CSS crop may be used if documented.",
+  "filename": "miso-soup-seiya-maeda.jpg",
+  "creator": "Seiya Maeda",
+  "source_page": "https://unsplash.com/photos/a-wooden-bowl-filled-with-soup-next-to-chopsticks-Mk3NKQboQkA",
+  "source_image_url": "https://images.unsplash.com/photo-1680137248903-7af5d51a3350?auto=format&fit=crop&fm=jpg&ixid=NHwxMjA3fDA%3D&ixlib=rb-4.1.0&q=60&w=3000",
+  "source_evidence": "Individual page identifies Seiya Maeda, miso soup, location Kazuno, Akita, Japan, and free Unsplash License. Published March 30, 2023.",
+  "attribution_ja": "写真：Seiya Maeda / Unsplash（Unsplash License）",
+  "attribution_en": "Photo: Seiya Maeda / Unsplash (Unsplash License).",
+  "topic_limitations": "Miso soup serving illustration only. Does not identify rice, barley or soybean miso and cannot visually substantiate differences between them.",
+  "visual_review": "Actual pixels inspected: wooden soup bowl, food, blurred background dishes, wood table and incidental patterned chopsticks. No recognizable people, readable logos or identifiable standalone artwork apparent. The incidental chopstick pattern does not establish a specific additional permission requirement. This is a reasonable editorial risk assessment, not certification of all conceivable third-party rights.",
+  "rights_status": "verified_unsplash_license",
+  "recommendation": "Accepted after renewed source and visual review for a neutral editorial illustration of miso soup. It is not presented as an example of a named miso type.",
+  "sha256": "a50e0e7dbfeddd7b138bb20e14531180972b18c9b7494336565acc4753cab829",
+  "dimensions": [
+    3000,
+    2000
+  ],
+  "bytes": 479538,
+  "previous_review": "Initially withheld conservatively for the chopstick decoration and lack of a named miso type. Renewed review distinguishes hypothetical risk from an identifiable rights issue; bilingual captions expressly leave the miso type unidentified.",
+  "published_filename": "miso-soup-seiya-maeda.jpg",
+  "used_in": [
+    "category-food.en.html",
+    "category-food.html",
+    "food-miso-everyday.en.html",
+    "food-miso-everyday.html",
+    "index.en.html",
+    "index.html"
+  ]
+}
