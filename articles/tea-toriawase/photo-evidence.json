@@ -1,0 +1,25 @@
+{
+  "id": "asset-toriawase-met-001",
+  "title": "Freshwater Jar, Hotei, 2024.553.1a–c",
+  "file": "toriawase-hotei-met.jpg",
+  "width": 901,
+  "height": 1200,
+  "creator": "The Metropolitan Museum of Art",
+  "source": "https://www.metmuseum.org/art/collection/search/828493",
+  "policy": "https://www.metmuseum.org/hubs/open-access",
+  "image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/828493/2319237/main-image",
+  "alt_ja": "自然灰釉の緑と茶が重なる、蓋と耳の付いた伊賀の水指。",
+  "alt_en": "An Iga freshwater jar with a lid and small handles, its surface layered with green and brown natural ash glaze.",
+  "credit_ja": "伊賀耳付水指 銘「布袋」、日本、1600年頃。メトロポリタン美術館、Gift of Peggy and Richard M. Danziger, 2024、2024.553.1a–c。画像：同館、CC0。",
+  "credit_en": "Freshwater Jar (Mizusashi), Named Hotei, Japan, ca. 1600. The Metropolitan Museum of Art, Gift of Peggy and Richard M. Danziger, 2024, 2024.553.1a–c. Image: The Met, CC0.",
+  "verification_date": "2026-11-10",
+  "used_in": [
+    "category-tea.en.html",
+    "category-tea.html",
+    "index.en.html",
+    "index.html",
+    "tea-toriawase.en.html",
+    "tea-toriawase.html"
+  ],
+  "sha256": "6fc273e5cefb5ea49355ef1f92c36042f8bb5aabb9d40e6d2ff99241155058ac"
+}

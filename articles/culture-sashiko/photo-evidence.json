@@ -1,0 +1,25 @@
+{
+  "id": "asset-sashiko-met-001",
+  "title": "Sashiko Jacket, 67.172.1",
+  "file": "sashiko-met-50805.jpg",
+  "width": 900,
+  "height": 1200,
+  "creator": "The Metropolitan Museum of Art",
+  "source": "https://www.metmuseum.org/art/collection/search/50805",
+  "policy": "https://www.metmuseum.org/hubs/open-access",
+  "image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/50805/1376830/main-image",
+  "alt_ja": "藍染めの布に白い糸で七宝つなぎや波の模様を刺した、19世紀後半の衣服。",
+  "alt_en": "A late nineteenth-century indigo jacket with white stitched circles and waves.",
+  "credit_ja": "《Sashiko Jacket》日本、19世紀後半。メトロポリタン美術館、Seymour Fund, 1967、67.172.1。画像：同館、CC0。",
+  "credit_en": "Sashiko Jacket, Japan, second half of the 19th century. The Metropolitan Museum of Art, Seymour Fund, 1967, 67.172.1. Image: The Met, CC0.",
+  "verification_date": "2026-11-10",
+  "used_in": [
+    "category-ideas.en.html",
+    "category-ideas.html",
+    "culture-sashiko.en.html",
+    "culture-sashiko.html",
+    "index.en.html",
+    "index.html"
+  ],
+  "sha256": "2f101f45292d52685f7ac8c37b3029fc3e6bc633c6267c8ed90fbd1877a60a1b"
+}

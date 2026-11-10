@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-10",
+  "base_commit": "c4ef3a14bf4d923e8f7a1a3d78989d49cedb5470",
+  "authorization": "Owner-authorized daily publication trial Nov 8–14, 2026; no individual human review claimed",
+  "articles": [
+    "culture-sashiko",
+    "ceramics-negoro-lacquer",
+    "tea-toriawase"
+  ],
+  "editorial_checks": {
+    "primary_sources_opened": 5,
+    "bilingual_review": "passed; fact sources and modern editorial suggestions distinguished",
+    "invented_experiences": false
+  },
+  "image_checks": {
+    "three_CC0_photos": "Individual museum object records, policies and actual pixels checked; full-frame compression; rights ledger and bilingual credits updated",
+    "retired_assets_reused": false
+  },
+  "technical_checks": {
+    "rights": "passed: 70 pages, 26 active photos",
+    "links": "passed: 2118 local references plus bilingual metadata and counts",
+    "seasonal_tests": "9 passed; existing metadata preserved; no new unsupported season claim",
+    "local_browser_suite": "blocked at Chromium launch: socket Operation not permitted; not passed",
+    "live_browser": "Pending deployment"
+  },
+  "publishing_status": "Validated release candidate; deployment verified separately"
+}

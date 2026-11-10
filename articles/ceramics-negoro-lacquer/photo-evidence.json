@@ -1,0 +1,25 @@
+{
+  "id": "asset-negoro-cma-001",
+  "title": "Tea Caddy (Chaire), 1988.56",
+  "file": "negoro-cma-1988-56.jpg",
+  "width": 624,
+  "height": 600,
+  "creator": "The Cleveland Museum of Art",
+  "source": "https://www.clevelandart.org/art/1988.56",
+  "policy": "https://www.clevelandart.org/open-access",
+  "image_url": "https://www.clevelandart.org/_next/image?q=75&url=https%3A%2F%2Fpiction.clevelandart.org%2Fcma%2Fump.di%3Fe%3D26EC065E15955F09AA9A750343C6C5F6B8926DDD725B6C2722C9F9363D9FEE5D%26s%3D24247294%26se%3D399313166%26v%3D1%26f%3D%5Cd0120%5Cu236001202%5C1988.56_o5.jpg&w=640",
+  "alt_ja": "朱の漆に黒い部分がのぞく、縦のふくらみのある木製の茶入。",
+  "alt_en": "A lobed wooden tea caddy with areas of black showing through red lacquer.",
+  "credit_ja": "《茶入》日本、16世紀、室町時代。木に根来漆塗り。クリーブランド美術館、Purchase from the J. H. Wade Fund、1988.56。画像：同館、CC0。",
+  "credit_en": "Tea Caddy (Chaire), 1500s, Japan, Muromachi period. Negoro lacquer on wood. The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1988.56. Image: Cleveland Museum of Art, CC0.",
+  "verification_date": "2026-11-10",
+  "used_in": [
+    "category-ceramics.en.html",
+    "category-ceramics.html",
+    "ceramics-negoro-lacquer.en.html",
+    "ceramics-negoro-lacquer.html",
+    "index.en.html",
+    "index.html"
+  ],
+  "sha256": "02ab0ea805966b0ad609eed01b5930fba3bbdc2cdf590ac5a6025689eb643bf5"
+}
